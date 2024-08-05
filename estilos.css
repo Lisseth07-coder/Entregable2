@@ -1,0 +1,50 @@
+*{
+    font-family: "Caveat", cursive;
+}
+
+body{
+background-image: url("./Imagenes/Fondo.png");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+a{
+    text-decoration: none;
+}
+    
+
+
+
+.mybutton{
+    background:#EBC49F;
+    border: none;
+    color: #D37676;
+    font-size: 1rem;
+    padding: 15px;
+    border-radius: 40px;
+}
+
+
+.mybutton:hover{
+    background:#D37676;
+    color: #EBC49F;
+}
+
+.mytittle{
+    font-size: 3rem;
+    color: #D37676;
+    margin-bottom: 50px;
+    font-family: "Dancing Script", cursive;
+}
+
+p{
+    font-size: 1rem;
+    color: #8C3061;
+    
+}
+.mytittlecard{
+ font-size: 1.5rem;
+ color:#D37676;
+ font-family: "Dancing Script", cursive;
+ 
+}
